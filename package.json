@@ -1,0 +1,23 @@
+{
+  "name": "stratum.medicor.se",
+  "version": "0.1.8",
+  "private": true,
+  "hexo": {
+    "version": "3.2.2"
+  },
+  "dependencies": {
+    "hexo": "latest",
+    "hexo-generator-archive": "latest",
+    "hexo-generator-category": "latest",
+    "hexo-generator-index": "latest",
+    "hexo-generator-tag": "latest",
+    "hexo-renderer-ejs": "latest",
+    "hexo-renderer-stylus": "latest",
+    "hexo-renderer-marked": "latest",
+    "hexo-server": "latest",
+    "hexo-admin": "latest",
+    "hexo-generator-feed": "latest",
+    "hexo-generator-sitemap": "latest",
+    "hexo-filter-api": "latest"
+  }
+}
