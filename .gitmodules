@@ -1,0 +1,3 @@
+[submodule "lightpush"]
+	path = themes/lightpush
+	url = https://github.com/medicor/lightpush.git 
